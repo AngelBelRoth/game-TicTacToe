@@ -15,8 +15,9 @@
 }
 
 #gameContainer {
-  font-family: "Permanent Marker", cursive;
+  font-family: 'Bitcount Single Ink';
   text-align: center;
+  padding: 1%;
 }
 
 #cellContainer {
@@ -24,4 +25,5 @@
   grid-template-columns: repeat(3, auto);
   width: 225px;
   margin: auto;
+  font-family: "Kalnia Glaze", serif;
 }

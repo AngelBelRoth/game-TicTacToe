@@ -87,3 +87,8 @@ class Game {
 
 let game = new Game('board')
 let game2 = new Game('board2')
+
+
+
+// Citation: BroCodez & M.Kazin
+// href: https://www.youtube.com/watch?v=AnmwHjpEhtA&list=WL&index=5
