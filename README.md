@@ -15,6 +15,7 @@ Bonus: Includes a refactor from JavaScript array-based board to an **object-base
 
 > Chrome
 <img width="301" height="694" alt="Screenshot 2025-09-29 at 16 05 58" src="https://github.com/user-attachments/assets/d6cfac68-7025-4baf-b8a1-0e294aff824c" />
+
 ---
 
 ## [Live Demo](https://angelbelroth.github.io/game-TicTacToe/)
