@@ -10,7 +10,7 @@ Bonus: Includes a refactor from JavaScript array-based board to an **object-base
 
 <img width="312" height="694" alt="Screenshot 2025-09-29 at 15 47 40" src="https://github.com/user-attachments/assets/1d32f0fd-974d-4ab6-9a70-f6da6e6b0b29" />
 
-## [🔗 Live Demo](https://angelbelroth.github.io/game-TicTacToe/)
+## [Live Demo](https://angelbelroth.github.io/game-TicTacToe/)
 
 ---
 
@@ -27,11 +27,12 @@ Bonus: Includes a refactor from JavaScript array-based board to an **object-base
 
 ## How to Play
 
-Clone or download the repository.
-Open index.html in your browser.
-Click on the grid to place your 'X' or 'O'.
-The game will automatically detect a winner or a tie.
-Click the "Restart" button to play again.
++ Open the live demo/provided link to the game, or
++ Clone or download the repository, then
++ Open index.html in your browser.
++ Click on the grid to place your 'X' or 'O'.
++ The game will automatically detect a winner or a tie.
++ Click the "Restart" button to play again.
 
 ---
 
