@@ -28,7 +28,7 @@ Bonus: Includes a refactor from JavaScript array-based board to an **object-base
 ## How to Play
 
 + Open the live demo/provided link to the game, or
-+ Clone or download the repository, then
++ Clone/download the repository, then
 + Open index.html in your browser.
 + Click on the grid to place your 'X' or 'O'.
 + The game will automatically detect a winner or a tie.
@@ -38,28 +38,16 @@ Bonus: Includes a refactor from JavaScript array-based board to an **object-base
 
 ## Contributing
 
-Contributions are welcome! To contribute:
-
-Fork the repository.
-
-Create a new branch (git checkout -b feature/YourFeature).
-
+Contributions are welcome!
+To contribute:
+-Fork the repository.
+*Create a new branch (git checkout -b feature/YourFeature).
 Commit your changes (git commit -m 'Add feature').
-
 Push to the branch (git push origin feature/YourFeature).
-
 Open a pull request.
-
 Please ensure your code adheres to the existing style and includes appropriate tests.
 
 ---
-
-/tic-tac-toe
-├── index.html       # Main HTML file
-├── style.css        # Stylesheet
-├── script.js        # JavaScript file containing game logic
-└── README.md        # Project documentation
-___
 
 ## License
 
