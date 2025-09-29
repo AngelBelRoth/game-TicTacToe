@@ -17,11 +17,11 @@ Bonus: Includes a refactor from JavaScript array-based board to an **object-base
 ## Features
 
 + 2 Tic Tac Toe Boards
-2-player gameplay: Take turns placing 'X' and 'O'.
-Responsive design: Play on both desktop and mobile devices.
-Game state management: Utilizes JavaScript objects to track the game board and player turns.
-Win detection: Automatically detects and announces the winner.
-Reset functionality: Restart the game at any time.
++ 2-player gameplay: Take turns placing 'X' and 'O'.
++ Responsive design: Play on both desktop and mobile devices.
++ Game state management: Utilizes JavaScript objects to track the game board and player turns.
++ Win detection: Automatically detects and announces the winner.
++ Reset functionality: Restart the game at any time.
 
 ---
 
@@ -62,6 +62,6 @@ ___
 
 ## License
 
-This project is a license-free project
+This is a license-free project
 
 ___
