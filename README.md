@@ -1,7 +1,7 @@
 # Tic-Tac-Toe Game
 
 A classic 2-player Tic-Tac-Toe game built using **HTML**, **CSS**, and **JavaScript**.  
-This project demonstrates core front-end skills: layout design, DOM manipulation, and state management.
+This project demonstrates core front-end skills: layout design, DOM manipulation, and state management.</br>
 Bonus: Includes a refactor from JavaScript array-based board to an **object-based game state** for more efficient access and updates.
 
 ---
