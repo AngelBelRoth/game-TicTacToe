@@ -40,8 +40,8 @@ Bonus: Includes a refactor from JavaScript array-based board to an **object-base
 
 Contributions are welcome!
 To contribute:
--Fork the repository.
-*Create a new branch (git checkout -b feature/YourFeature).
+- Fork the repository.
+* Create a new branch (git checkout -b feature/YourFeature).
 Commit your changes (git commit -m 'Add feature').
 Push to the branch (git push origin feature/YourFeature).
 Open a pull request.
