@@ -1,4 +1,4 @@
-# 🕹️ Tic-Tac-Toe Game
+# Tic-Tac-Toe Game
 
 A classic 2-player Tic-Tac-Toe game built using **HTML**, **CSS**, and **JavaScript**.  
 This project demonstrates core front-end skills: layout design, DOM manipulation, and state management.
@@ -7,15 +7,20 @@ This project demonstrates core front-end skills: layout design, DOM manipulation
 
 ---
 
-## 🔗 Live Demo
-
-> Coming Soon – [Deploy with GitHub Pages](https://pages.github.com/)
+## [🔗 Live Demo](https://angelbelroth.github.io/game-TicTacToe/)
 
 ---
 
 ## Game Preview
 
+<img width="312" height="694" alt="Screenshot 2025-09-29 at 15 47 40" src="https://github.com/user-attachments/assets/1d32f0fd-974d-4ab6-9a70-f6da6e6b0b29" />
+
+
+---
+
 **Features
+
+2 Tic Tac Toe Boards
 
 2-player gameplay: Take turns placing 'X' and 'O'.
 
@@ -27,11 +32,15 @@ Win detection: Automatically detects and announces the winner.
 
 Reset functionality: Restart the game at any time.
 
+---
+
 /tic-tac-toe
 ├── index.html       # Main HTML file
 ├── style.css        # Stylesheet
 ├── script.js        # JavaScript file containing game logic
 └── README.md        # Project documentation
+
+---
 
 ** How to Play
 
@@ -45,7 +54,9 @@ The game will automatically detect a winner or a tie.
 
 Click the "Restart" button to play again.
 
-🤝 Contributing
+___
+
+** Contributing
 
 Contributions are welcome! To contribute:
 
@@ -61,6 +72,10 @@ Open a pull request.
 
 Please ensure your code adheres to the existing style and includes appropriate tests.
 
+___
+
 **License
 
 This project is a license-free project
+
+___
